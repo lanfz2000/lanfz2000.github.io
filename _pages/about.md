@@ -24,6 +24,6 @@ About me
 - 2022.06-2022.09, 华西大数据中心, 科研助理.
 
 # Publications
-- **HAMIL: High-resolution activation maps and interleaved learning for weakly supervised segmentation of histopathological images**
+- **HAMIL: High-resolution activation maps and interleaved learning for weakly supervised segmentation of histopathological images**  
 **Lanfeng Zhong**, Guotai Wang, Xin Liao, Shaoting Zhang
 IEEE Transaction on Medical Imaging (2023 IF 10.6).
