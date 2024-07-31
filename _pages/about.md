@@ -31,5 +31,8 @@ About me
 **Lanfeng Zhong**, Guotai Wang, Xin Liao, Shaoting Zhang
 **IEEE Transaction on Medical Imaging (2023 IF 10.6).**
 - **Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation**  
-Qianfei Zhao*, **Lanfeng Zhong***, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, Guotai Wang  
+Qianfei Zhao*, **Lanfeng Zhong**\*, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, Guotai Wang  
 **IEEE Transaction on Medical Imaging (2023 IF 10.6). (the first two authors contributed equally.)**
+- **Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions**  
+**Lanfeng Zhong**, Xin Liao, Shaoting Zhang, Guotai Wang  
+**MICCAI 2023, early accept, 14%**
