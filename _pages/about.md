@@ -20,8 +20,8 @@ About me
 - 电子科技大学优秀学生一等奖学金, 20%(本科). 2020.10
 
 # Experiences
-- 2023.09-2024.08, Shanghai AI Lab, Research Assistant.
-- 2022.06-2022.09, 华西大数据中心, 科研助理.
+- 2023.09-2024.08, Shanghai AI Lab, 智慧医疗, Intern.
+- 2022.06-2022.09, 华西大数据疾病中心, 科研助理.
 
 # Publications
 - **Semi-supervised pathological image segmentation via cross distillation of multiple attentions and Seg-CAM consistency**  
