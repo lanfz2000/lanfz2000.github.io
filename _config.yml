@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China/Shanghai"
-title                    : "Your Name / Site Title"
+title                    : "风中追风"
 title_separator          : "-"
 name                     : &name "Lanfeng Zhong"
 description              : &description "personal description"
