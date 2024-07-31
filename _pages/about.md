@@ -26,10 +26,10 @@ About me
 # Publications
 - **Semi-supervised pathological image segmentation via cross distillation of multiple attentions and Seg-CAM consistency**  
 **Lanfeng Zhong**, Xiangde Luo, Xin Liao, Shaoting Zhang, Guotai Wang
-Pattern Recognition (2024 IF 7.5).
+**Pattern Recognition (2024 IF 7.5).**
 - **HAMIL: High-resolution activation maps and interleaved learning for weakly supervised segmentation of histopathological images**  
 **Lanfeng Zhong**, Guotai Wang, Xin Liao, Shaoting Zhang
-IEEE Transaction on Medical Imaging (2023 IF 10.6).
+**IEEE Transaction on Medical Imaging (2023 IF 10.6).**
 - **Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation**  
 Qianfei Zhao*, **Lanfeng Zhong***, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, Guotai Wang
-IEEE Transaction on Medical Imaging (2023 IF 10.6).
+**IEEE Transaction on Medical Imaging (2023 IF 10.6). (the first two authors contributed equally.)**
