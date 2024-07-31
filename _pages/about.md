@@ -13,7 +13,6 @@ About me
 * I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
-======
 - 电子科技大学学术青苗, 4/210. 2024.04
 - 国家奖学金, 9/426. 2023.10
 - 电子科技大学优秀学生一等奖学金, 20\%(研究生). 2023.10
@@ -21,6 +20,5 @@ About me
 - 电子科技大学优秀学生一等奖学金, 20\%(本科). 2020.10
 
 # Experiences
-=======
 - 2023.09-2024.08, Shanghai AI Lab, Research Assistant.
 - 2022.06-2022.09, 华西大数据中心, 科研助理.
