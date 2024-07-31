@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-* I am a PhD student at University of Electronic Science and Technology of China, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en).
+* I am a PhD student at University of Electronic Science and Technology of China, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
 * I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
@@ -29,4 +29,7 @@ About me
 Pattern Recognition (2024 IF 7.5).
 - **HAMIL: High-resolution activation maps and interleaved learning for weakly supervised segmentation of histopathological images**  
 **Lanfeng Zhong**, Guotai Wang, Xin Liao, Shaoting Zhang
+IEEE Transaction on Medical Imaging (2023 IF 10.6).
+- **Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation**  
+Qianfei Zhao*, **Lanfeng Zhong***, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, Guotai Wang
 IEEE Transaction on Medical Imaging (2023 IF 10.6).
