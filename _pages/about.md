@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-* I am a PhD student at University of Electronic Science and Technology of China, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
+* I am a PhD student at University of Electronic Science and Technology of China from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
 * I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
@@ -20,8 +20,8 @@ About me
 - 电子科技大学优秀学生一等奖学金, 20%(本科). 2020.10
 
 # Experiences
-- 2023.09-2024.08, Shanghai AI Lab, 智慧医疗, Intern.
-- 2022.06-2022.09, 华西大数据疾病中心, 科研助理.
+- 2023.09-2024.08, Shanghai AI Lab, Smart Healthcare, Intern. Focus on pathology foundation model for downstream tasks. 
+- 2022.06-2022.09, 华西医院大数据疾病中心, Research Assistant.
 
 # Publications
 - **Semi-supervised pathological image segmentation via cross distillation of multiple attentions and Seg-CAM consistency**  
