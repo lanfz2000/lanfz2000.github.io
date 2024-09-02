@@ -39,3 +39,7 @@ Qianfei Zhao*, **Lanfeng Zhong**\*, Jianghong Xiao, Jingbo Zhang, Yinan Chen, We
 - **Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions**  
 **Lanfeng Zhong**, Xin Liao, Shaoting Zhang, Guotai Wang  
 **MICCAI 2023, early accept, 14%**
+
+- **SEMI-CONTRANS: Semi-Supervised Medical Image Segmentation via Multi-Scale Feature Fusion and Cross Teaching of CNN and Transformer**  
+Weiren Zhao*, **Lanfeng Zhong**\*, Guotai Wang  
+**ISBI 2024, Oral**
