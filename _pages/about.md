@@ -23,7 +23,7 @@ About me
 
 # Publications
 - **UniSAL: Unified Semi-Supervised Active Learning for Histopathological Image Classification**  
-**Lanfeng Zhong**, Kun Qian, Xin Liao, Zongyao Huang, Yang Liu, Shaoting Zhanga, and Guotai Wang  
+**Lanfeng Zhong**, Kun Qian, Xin Liao, Zongyao Huang, Yang Liu, Shaoting Zhang, and Guotai Wang  
 **Medical Image Analysis (2025).**
 
 - **Semi-supervised pathological image segmentation via cross distillation of multiple attentions and Seg-CAM consistency**  
