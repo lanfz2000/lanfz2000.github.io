@@ -37,7 +37,11 @@ About me
 - **Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation**  
 Qianfei Zhao*, **Lanfeng Zhong**\*, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, and Guotai Wang  
 **IEEE Transaction on Medical Imaging (2023 IF 10.6).** (the first two authors contributed equally.)
-  
+
+- **OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**  
+**Lanfeng Zhong**, Xin Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang  
+**MICCAI 2025, early accept, 9%**
+
 - **Semi-supervised Pathological Image Segmentation via Cross Distillation of Multiple Attentions**  
 **Lanfeng Zhong**, Xin Liao, Shaoting Zhang, and Guotai Wang  
 **MICCAI 2023, early accept, 14%**
