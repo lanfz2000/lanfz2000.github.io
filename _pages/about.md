@@ -22,6 +22,10 @@ About me
 - 2022.06-2022.09, West China Hospital Big Data Disease Center, Research Assistant.
 
 # Publications
+- **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification**  
+**Lanfeng Zhong**, Zongyao Huang, Yang Liu, Wenjun Liao, Shichuan Zhang, Guotai Wang, and Shaoting Zhang  
+**Medical Image Analysis (2025).**
+  
 - **UniSAL: Unified Semi-Supervised Active Learning for Histopathological Image Classification**  
 **Lanfeng Zhong**, Kun Qian, Xin Liao, Zongyao Huang, Yang Liu, Shaoting Zhang, and Guotai Wang  
 **Medical Image Analysis (2025).**
