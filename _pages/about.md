@@ -24,7 +24,7 @@ About me
 # Publications
 - **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification**  
 **Lanfeng Zhong**, Zongyao Huang, Yang Liu, Wenjun Liao, Shichuan Zhang, Guotai Wang, and Shaoting Zhang  
-**IEEE Transaction on Medical Imaging (2025).**
+**IEEE Transactions on Medical Imaging (2025).**
   
 - **UniSAL: Unified Semi-Supervised Active Learning for Histopathological Image Classification**  
 **Lanfeng Zhong**, Kun Qian, Xin Liao, Zongyao Huang, Yang Liu, Shaoting Zhang, and Guotai Wang  
@@ -36,11 +36,11 @@ About me
   
 - **HAMIL: High-resolution activation maps and interleaved learning for weakly supervised segmentation of histopathological images**  
 **Lanfeng Zhong**, Guotai Wang, Xin Liao, and Shaoting Zhang  
-**IEEE Transaction on Medical Imaging (2023 IF 10.6).**
+**IEEE Transactions on Medical Imaging (2023 IF 10.6).**
   
 - **Efficient Multi-Organ Segmentation from 3D Abdominal CT Images with Lightweight Network and Knowledge Distillation**  
 Qianfei Zhao*, **Lanfeng Zhong**\*, Jianghong Xiao, Jingbo Zhang, Yinan Chen, Wenjun Liao, Shaoting Zhang, and Guotai Wang  
-**IEEE Transaction on Medical Imaging (2023 IF 10.6).** (the first two authors contributed equally.)
+**IEEE Transactions on Medical Imaging (2023 IF 10.6).** (The first two authors contributed equally.)
 
 - **OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**  
 **Lanfeng Zhong**, Xin Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang  
