@@ -24,7 +24,7 @@ About me
 # Publications
 - **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification**  
 **Lanfeng Zhong**, Zongyao Huang, Yang Liu, Wenjun Liao, Shichuan Zhang, Guotai Wang, and Shaoting Zhang  
-**Medical Image Analysis (2025).**
+**IEEE Transaction on Medical Imaging (2025).**
   
 - **UniSAL: Unified Semi-Supervised Active Learning for Histopathological Image Classification**  
 **Lanfeng Zhong**, Kun Qian, Xin Liao, Zongyao Huang, Yang Liu, Shaoting Zhang, and Guotai Wang  
