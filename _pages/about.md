@@ -56,5 +56,5 @@ Weiren Zhao*, **Lanfeng Zhong**\*, Guotai Wang
 **ISBI 2024, Oral**
 
 - **MetaSSL: A General Heterogeneous Loss for Semi-Supervised Medical Image Segmentation**  
-Weiren Zhao, **Lanfeng Zhong**, Xin Liao, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang
+Weiren Zhao, **Lanfeng Zhong**, Xin Liao, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang  
 **IEEE Transactions on Medical Imaging (2025, IF=9.8).**
