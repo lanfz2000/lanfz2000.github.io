@@ -18,6 +18,7 @@ About me
 - UESTC First-Class Outstanding Student Scholarship, 20%. 2020.10, 2022.10, 2023.10
 
 # Experiences
+- 2025.09-now, Shanghai AI Lab, Intern.
 - 2023.09-2024.08, Shanghai AI Lab, Smart Healthcare, Intern. Focus on pathology foundation model for downstream tasks. 
 - 2022.06-2022.09, West China Hospital Big Data Disease Center, Research Assistant.
 
@@ -53,3 +54,7 @@ Qianfei Zhao*, **Lanfeng Zhong**\*, Jianghong Xiao, Jingbo Zhang, Yinan Chen, We
 - **SEMI-CONTRANS: Semi-Supervised Medical Image Segmentation via Multi-Scale Feature Fusion and Cross Teaching of CNN and Transformer**  
 Weiren Zhao*, **Lanfeng Zhong**\*, Guotai Wang  
 **ISBI 2024, Oral**
+
+- **MetaSSL: A General Heterogeneous Loss for Semi-Supervised Medical Image Segmentation**  
+Weiren Zhao, **Lanfeng Zhong**, Xin Liao, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang
+**IEEE Transactions on Medical Imaging (2025, IF=9.8).**
