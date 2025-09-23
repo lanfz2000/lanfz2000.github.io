@@ -18,7 +18,7 @@ About me
 - UESTC First-Class Outstanding Student Scholarship, 20%. 2020.10, 2022.10, 2023.10
 
 # Experiences
-- 2025.09-now, Shanghai AI Lab, Intern.
+- 2025.09-now, Shanghai AI Lab, Intern. Pathology multimodal large language model, vision foundation model.
 - 2023.09-2024.08, Shanghai AI Lab, Smart Healthcare, Intern. Focus on pathology foundation model for downstream tasks. 
 - 2022.06-2022.09, West China Hospital Big Data Disease Center, Research Assistant.
 
