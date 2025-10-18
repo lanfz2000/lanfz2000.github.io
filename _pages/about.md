@@ -9,13 +9,14 @@ redirect_from:
 
 About me
 ======
-* I am a PhD student at University of Electronic Science and Technology of China and Shanghai AI Lab from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
+* I am a joint PhD student at University of Electronic Science and Technology of China and Shanghai AI Lab from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
 * I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
 - UESTC Academic Seedling Award, 4/210. 2024.04
 - National Scholarship, 9/426. 2023.10
 - UESTC First-Class Outstanding Student Scholarship, 20%. 2020.10, 2022.10, 2023.10
+- UESTC Second-Class Outstanding Student Scholarship, 30%. 2025.10
 
 # Experiences
 - 2025.09-now, Shanghai AI Lab, Intern. Pathology multimodal large language model, vision foundation model.
@@ -58,3 +59,11 @@ Weiren Zhao*, **Lanfeng Zhong**\*, Guotai Wang
 - **MetaSSL: A General Heterogeneous Loss for Semi-Supervised Medical Image Segmentation**  
 Weiren Zhao, **Lanfeng Zhong**, Xin Liao, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang  
 **IEEE Transactions on Medical Imaging (2025, IF=9.8).**
+
+- **SUGFW: A SAM-Based Uncertainty-Guided Feature Weighting Framework for Cold Start Active Learning**  
+Xiaochuan Ma, Jia Fu, **Lanfeng Zhong**, Ning Zhu, Guotai Wang  
+**MICCAI 2025.**
+
+- **CSAL-3D: Cold-Start Active Learning for 3D Medical Image Segmentation via SSL-Driven Uncertainty-Reinforced Diversity Sampling**  
+Ning Zhu, Ping Ye, **Lanfeng Zhong**, Qiang Yue, Shaoting Zhang, Guotai Wang  
+**MICCAI 2025. Best paper shortlist**
