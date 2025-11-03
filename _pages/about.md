@@ -60,6 +60,10 @@ Weiren Zhao*, **Lanfeng Zhong**\*, Guotai Wang
 Weiren Zhao, **Lanfeng Zhong**, Xin Liao, Wenjun Liao, Shichuan Zhang, Shaoting Zhang, and Guotai Wang  
 **IEEE Transactions on Medical Imaging (2025, IF=9.8).**
 
+- **DGHFA: Dynamic Gradient and Hierarchical Feature Alignment for Robust Distillation of Medical VLMs**  
+Boyi Xiao, Jianghao Wu, **Lanfeng Zhong**, Xiaoguang Zou, Yuanquan Wu, Guotai Wang, Shaoting Zhang  
+**MICCAI 2025.**
+
 - **SUGFW: A SAM-Based Uncertainty-Guided Feature Weighting Framework for Cold Start Active Learning**  
 Xiaochuan Ma, Jia Fu, **Lanfeng Zhong**, Ning Zhu, Guotai Wang  
 **MICCAI 2025.**
