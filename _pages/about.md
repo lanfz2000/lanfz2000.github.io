@@ -9,8 +9,7 @@ redirect_from:
 
 About me
 ======
-* I am a joint PhD student at University of Electronic Science and Technology of China and Shanghai AI Lab from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis.
-* I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
+* I am a PhD student at University of Electronic Science and Technology of China from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis. I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
 - UESTC Academic Seedling Award, 4/210. 2024.04
