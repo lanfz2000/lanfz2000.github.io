@@ -23,6 +23,10 @@ About me
 - 2022.06-2022.09, West China Hospital Big Data Disease Center, Research Assistant.
 
 # Publications
+- **SUDA: Simultaneous Unsupervised Knowledge Distillation and Adaptation of Foundation Models for Efficient Pathological Image Analysis**  
+**Lanfeng Zhong**,  Kun Qian, Weiren Zhao, Tian Shen, Shan Xu, Jianming Li, and Guotai Wang
+**Medical Image Analysis (2026).**
+
 - **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification**  
 **Lanfeng Zhong**, Zongyao Huang, Yang Liu, Wenjun Liao, Shichuan Zhang, Guotai Wang, and Shaoting Zhang  
 **IEEE Transactions on Medical Imaging (2025, IF=9.8).**
