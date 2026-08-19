@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-* I am a PhD student at University of Electronic Science and Technology of China from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). Major in medical image analysis. I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
+* I am a PhD student at University of Electronic Science and Technology of China from 2024/09, under the supervision of [Guotai Wang](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao) and [Shaoting Zhang](https://scholar.google.com/citations?user=oiBMWK4AAAAJ&hl=en). I received Bachelor's Degree at University of Electronic Science and Technology of China in 2022. Major in Electronic Engineering.
 
 # Reward
 - UESTC Academic Seedling Award, 4/210. 2024.04
@@ -18,14 +18,14 @@ About me
 - UESTC Second-Class Outstanding Student Scholarship, 30%. 2025.10
 
 # Experiences
-- 2025.09-now, Shanghai AI Lab, Intern. Pathology multimodal large language model, vision foundation model, MLLM post-training.
+- 2025.09-now, Shanghai AI Lab, Intern. Pathology multimodal large language model, Agents, MLLM post-training (SFT+RL+OPD).
 - 2023.09-2024.08, Shanghai AI Lab, Smart Healthcare, Intern. Focus on pathology foundation model for downstream tasks.
 - 2022.06-2022.09, West China Hospital Big Data Disease Center, Research Assistant.
 
 # Publications
 - **SUDA: Simultaneous Unsupervised Knowledge Distillation and Adaptation of Foundation Models for Efficient Pathological Image Analysis**  
 **Lanfeng Zhong**,  Kun Qian, Weiren Zhao, Tian Shen, Shan Xu, Jianming Li, and Guotai Wang  
-**Medical Image Analysis (2026).**
+**Medical Image Analysis (2026, IF=14.0).**
 
 - **VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification**  
 **Lanfeng Zhong**, Zongyao Huang, Yang Liu, Wenjun Liao, Shichuan Zhang, Guotai Wang, and Shaoting Zhang  
