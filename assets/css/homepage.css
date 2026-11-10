@@ -99,9 +99,31 @@ h2 { margin-bottom: 11px; font-size: 1.4rem; }
 .figure-caption { display: block; text-align: center; color: var(--muted); font-size: 0.76rem; margin-top: 4px; }
 
 .experience { list-style: none; padding: 0; margin: 0; }
-.experience li + li { margin-top: 12px; }
-.experience-header { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 0 18px; }
-.experience time { color: var(--muted); white-space: nowrap; }
+.experience li {
+  display: grid;
+  grid-template-columns: 126px minmax(0, 1fr);
+  align-items: start;
+  gap: 20px;
+}
+
+.experience li + li { margin-top: 18px; }
+
+.experience-logo {
+  display: block;
+  width: 100%;
+  height: 64px;
+  object-fit: contain;
+}
+
+.experience-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0 18px;
+}
+
+.experience-date { color: var(--muted); white-space: nowrap; font-size: 0.92rem; }
 .awards { padding-left: 1.3em; margin: 0; }
 
 footer {
@@ -119,6 +141,9 @@ footer {
   h1 { font-size: 1.65rem; }
   .paper { grid-template-columns: minmax(0, 1fr); gap: 11px; }
   .paper-figure { width: min(100%, 250px); }
+  .experience li { grid-template-columns: 74px minmax(0, 1fr); gap: 12px; }
+  .experience-logo { height: 48px; }
+  .experience-header { flex-direction: column; }
 }
 
 @media (max-width: 360px) {
